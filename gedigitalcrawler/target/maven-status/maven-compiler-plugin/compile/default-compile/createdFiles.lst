@@ -1,0 +1,6 @@
+com\ge\crawler\fileReader\JsonReader.class
+com\ge\crawler\threadmngmt\CrawlerThread.class
+com\ge\crawler\model\Page.class
+com\ge\crawler\data\CrawlerData.class
+com\ge\crawler\GedigitalcrawlerApplication.class
+com\ge\crawler\WebCrawlerController.class
