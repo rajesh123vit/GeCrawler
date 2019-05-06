@@ -66,6 +66,12 @@ public class WebCrawlerController {
 	   
 	        prompt("TEST 1");
 	        run(NET_ONE);
+		  
+		/*
+		*we can add further resource to parallel execution
+		*run(NET_two);
+		*run(NET_three);
+		*/
 	  }
 	  
 	  
